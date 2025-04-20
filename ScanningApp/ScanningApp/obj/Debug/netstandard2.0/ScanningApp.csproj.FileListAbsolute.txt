@@ -1,0 +1,17 @@
+C:\Users\priya\source\repos\ScanningApp\ScanningApp\ScanningApp\bin\Debug\netstandard2.0\ScanningApp.deps.json
+C:\Users\priya\source\repos\ScanningApp\ScanningApp\ScanningApp\bin\Debug\netstandard2.0\ScanningApp.dll
+C:\Users\priya\source\repos\ScanningApp\ScanningApp\ScanningApp\bin\Debug\netstandard2.0\ref\ScanningApp.dll
+C:\Users\priya\source\repos\ScanningApp\ScanningApp\ScanningApp\bin\Debug\netstandard2.0\ScanningApp.pdb
+C:\Users\priya\source\repos\ScanningApp\ScanningApp\ScanningApp\obj\Debug\netstandard2.0\ScanningApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya\source\repos\ScanningApp\ScanningApp\ScanningApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\priya\source\repos\ScanningApp\ScanningApp\ScanningApp\obj\Debug\netstandard2.0\DetailsPage.xaml.g.cs
+C:\Users\priya\source\repos\ScanningApp\ScanningApp\ScanningApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\priya\source\repos\ScanningApp\ScanningApp\ScanningApp\obj\Debug\netstandard2.0\ScanPage.xaml.g.cs
+C:\Users\priya\source\repos\ScanningApp\ScanningApp\ScanningApp\obj\Debug\netstandard2.0\ScanningApp.AssemblyInfoInputs.cache
+C:\Users\priya\source\repos\ScanningApp\ScanningApp\ScanningApp\obj\Debug\netstandard2.0\ScanningApp.AssemblyInfo.cs
+C:\Users\priya\source\repos\ScanningApp\ScanningApp\ScanningApp\obj\Debug\netstandard2.0\ScanningApp.csproj.CoreCompileInputs.cache
+C:\Users\priya\source\repos\ScanningApp\ScanningApp\ScanningApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\priya\source\repos\ScanningApp\ScanningApp\ScanningApp\obj\Debug\netstandard2.0\ScanningApp.dll
+C:\Users\priya\source\repos\ScanningApp\ScanningApp\ScanningApp\obj\Debug\netstandard2.0\ref\ScanningApp.dll
+C:\Users\priya\source\repos\ScanningApp\ScanningApp\ScanningApp\obj\Debug\netstandard2.0\ScanningApp.pdb
+C:\Users\priya\source\repos\ScanningApp\ScanningApp\ScanningApp\obj\Debug\netstandard2.0\ScanningApp.csproj.AssemblyReference.cache
